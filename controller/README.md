@@ -1,2 +1,2 @@
-# Fishing-Reel
-The Arduino sketch for the fishing reel controller.
+# Rod controller 
+The Arduino sketch, output the state of rod and reel via Serial port.
