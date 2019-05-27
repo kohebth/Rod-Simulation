@@ -1,2 +1,2 @@
 # Rod controller 
-The Arduino sketch, ouput the state of rod and reel.
+The Arduino sketch, output the state of rod and reel via Serial port.
